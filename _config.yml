@@ -1,29 +1,37 @@
-name: therealdanpage
-favicon: null
-layout_spectrum: 0.42839
-typography_spectrum: 0.93089
 title: TheRealDanPage
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+color:
+  saturation: 0.2943394889589399
+  brandStrength: 0.5576512520201504
+  lightness: 0.0563299017958343
+  brandColors:
+    - '#000000'
+  rhythmicContrast: 0.2489965071436018
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
+name: therealdanpage
+favicon: null
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
-  brandStrength: 0.5576512520201504
-  lightness: 0.0563299017958343
-  saturation: 0.2943394889589399
-  rhythmicContrast: 0.24899650714360178
-purpose: []
+typography_spectrum: 0.93089
+layout_spectrum: 0.42839

@@ -6,19 +6,19 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 color:
   saturation: 0.2943394889589399
   brandStrength: 0.5576512520201504
-  lightness: 0.0563299017958343
+  rhythmicContrast: 0.2489965071436018
   brandColors:
     - '#000000'
-  rhythmicContrast: 0.2489965071436018
+  lightness: 0.0563299017958343
 cta:
   bucket: null
   version: null
@@ -27,11 +27,11 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: therealdanpage
 favicon: null
+name: therealdanpage
 opengraph:
   image: null
   type: null
   appId: null
 typography_spectrum: 0.93089
-layout_spectrum: 0.42839
+layout_spectrum: 0.4828142

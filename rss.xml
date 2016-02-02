@@ -2,16 +2,23 @@
     <channel>
         <title><![CDATA[TheRealDanPage]]></title>
         <description><![CDATA[TheRealDanPage]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/therealdanpage/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 14 Jan 2016 18:30:06 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 02 Feb 2016 19:14:47 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/therealdanpage/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/86a36b2c-8e88-4381-887a-2c302768aaa3.png">]]></description>
-            <link>undefinedd3f806b7-fa95-446c-bfc9-6696b09b172e/index.html</link>
+            <link>https://thegrid.ai/therealdanpage/d3f806b7-fa95-446c-bfc9-6696b09b172e/index.html</link>
             <guid isPermaLink="false">d3f806b7-fa95-446c-bfc9-6696b09b172e</guid>
             <pubDate>Thu, 14 Jan 2016 18:30:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Winter Preview - Premiere Calendar | TVGuide.com]]></title>
+            <description><![CDATA[<article><h1>Winter Preview - Premiere Calendar | TVGuide.com</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cbc364dac6855bf0481d19bfa6d3acbff744585d.png"></article>]]></description>
+            <link>http://www.tvguide.com/special/winter-preview/calendar/</link>
+            <guid isPermaLink="false">25209797-84ad-455d-97e2-2090f787cf4f</guid>
+            <pubDate>Tue, 02 Feb 2016 19:14:44 GMT</pubDate>
         </item>
     </channel>
 </rss>

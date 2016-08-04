@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[TheRealDanPage]]></title>
+        <description><![CDATA[TheRealDanPage]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 04 Aug 2016 23:51:21 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Stranger Things is an Awesome Thing]]></title>
+            <description><![CDATA[<p>Take Goonies, Stand By Me, X-Files and sprinkle it with a little Guillermo Del Toro and you get Stranger Things.</p>]]></description>
+            <link>undefinedstranger-things-is-an-awesome-thing/index.html</link>
+            <guid isPermaLink="false">500180e3-e795-45fa-8388-8abb05fd6436</guid>
+            <pubDate>Thu, 04 Aug 2016 23:51:20 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

@@ -1,5 +1,26 @@
-title: TheRealDanPage
-purpose: []
+typography_spectrum: 0.93089
+color:
+  saturation: 0.2943394889589399
+  brandStrength: 0.5576512520201504
+  rhythmicContrast: 0.2489965071436018
+  brandColors:
+    - '#000000'
+  lightness: 0.0563299017958343
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.4828142
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: therealdanpage
+cta:
+  bucket: null
+  version: null
+  domain: null
+favicon: null
 collections:
   - index:
       path: /
@@ -12,26 +33,6 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-color:
-  saturation: 0.2943394889589399
-  brandStrength: 0.5576512520201504
-  rhythmicContrast: 0.2489965071436018
-  brandColors:
-    - '#000000'
-  lightness: 0.0563299017958343
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
-name: therealdanpage
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.93089
-layout_spectrum: 0.4828142
+title: TheRealDanPage
+description: Where Content Gets Exposed
+purpose: []
